@@ -122,19 +122,59 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Aztecas",
-		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Aztecas",
+		"title": "The Families",
+		"notes": "The Familes, Güney Los Santos bölgelerinde yaşayan büyük bir Afro-Amerikan sokak çetesidir. Tüm Chamberlain Hills ve Strawberry mahallelerinde ve ayrıca Davis'in bazı kısımlarında toprakları vardır. Rancho'nun güneydoğu yakasındaki komşu Ballas çetesi ve Los Santos Vagos çetesiyle şiddetli bir rekabet içindedirler. Şuan üyeleri pek aktif değildir.",
+		"wiki_link": "https://vorp.fandom.com/tr/wiki/The_Families",
 		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
+		"strokecolor": "008000",
+		"fillcolor": "008000",
 		"latlngarray": [
-			{"lat": -72.445, "lng": -1.645},
-			{"lat": -72.668, "lng": -0.744},
-			{"lat": -73.018, "lng": -1.205},
-			{"lat": -73.175, "lng": -1.568},
-			{"lat": -72.802, "lng": -3.095},
-			{"lat": -72.603, "lng": -2.479}
+{"lat": -74.435, "lng": -20.233},
+{"lat": -73.613, "lng": -24.661},
+{"lat": -72.565, "lng": -22.619},
+{"lat": -71.161, "lng": -17.686},
+{"lat": -71.158, "lng": -12.378},
+{"lat": -71.338, "lng": -11.455}
 		]
+	},
+
+	
+		{
+		"type": "Territories",
+		"title": "Vanilla Unicorn Gang",
+		"notes": "",
+		"wiki_link": "https://vorp.fandom.com/tr/wiki/",
+		"order": 0,
+		"strokecolor": "008000",
+		"fillcolor": "008000",
+		"latlngarray": [
+{"lat": -74.435, "lng": -20.233},
+{"lat": -73.613, "lng": -24.661},
+{"lat": -72.565, "lng": -22.619},
+{"lat": -71.161, "lng": -17.686},
+{"lat": -71.158, "lng": -12.378},
+{"lat": -71.338, "lng": -11.455}
+		]
+	},
+	
+	
+	{
+        "type": "Territories",
+        "title": "The Lost MC Mirror Park",
+        "notes": "",
+        "wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
+	"order": 0,
+        "strokecolor": "FF0000",
+        "fillcolor": "FFFFFF",
+        "latlngarray": [
+            {"lat": -54.293, "lng": 13.357},
+            {"lat": -55.125, "lng": 14.533},
+            {"lat": -55.742, "lng": 13.555},
+            {"lat": -55.238, "lng": 12.094},
+            {"lat": -54.369, "lng": 12.907},
+            {"lat": -54.369, "lng": 13.126}
+              ]
 	}
+	
+	
 ]
