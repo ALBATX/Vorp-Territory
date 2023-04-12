@@ -135,7 +135,12 @@
 {"lat": -71.161, "lng": -17.686},
 {"lat": -71.158, "lng": -12.378},
 {"lat": -71.338, "lng": -11.455}
-		]
+		],
+		"video": {
+			"yt_id": "pSCgfAqfI3U",
+			"yt_user_display": "BerKeiSeinBerg",
+			"yt_user_link": "c/@berkeiseinberg9945"
+		}
 	},
 
 	
