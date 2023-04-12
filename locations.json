@@ -9,9 +9,7 @@
 		"strokecolor": "882222",
 		"fillcolor": "000000",
 		"latlngarray": [
-            {
-           {
-		    "lat": 68.885, "lng": -38.129},
+                        {"lat": 68.885, "lng": -38.129},
                         {"lat": 69.187, "lng": -39.151},
                        {"lat": 69.605, "lng": -40.162},
 {"lat": 70.372, "lng": -41.260},
@@ -64,9 +62,10 @@
 {"lat": 68.011, "lng": -28.057},
 {"lat": 67.845, "lng": -32.188},
 {"lat": 68.272, "lng": -35.432}
-
 		]
 	},
+	
+	
 	{
 		"type": "Territories",
 		"title": "The Lost MC Sandy Shores",
