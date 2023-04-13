@@ -114,6 +114,12 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
+		{
+			name: 'Legal',
+			icon: 'radar/radar_police_station.png',
+			type: 'General',
+			enabled: true,
+		},
 		/*
 		{
 			name: 'Deprecated',
