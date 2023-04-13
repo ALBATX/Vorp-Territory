@@ -151,6 +151,27 @@
 {"lat": 45.375, "lng": -22.824}
 		]
 	},
+	
+		{
+		"type": "Territories",
+		"title": "The Lost MC Sandy Shores",
+		"notes": "",
+		"wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": 43.567, "lng": -17.457},
+			{"lat": 43.567, "lng": -7.794},
+			{"lat": 38.702, "lng": -7.794},
+			{"lat": 38.702, "lng": -10.315},
+			{"lat": 36.751, "lng": -10.315},
+			{"lat": 36.751, "lng": -14.371},
+			{"lat": 38.699, "lng": -14.371},
+			{"lat": 38.699, "lng": -17.457}
+		]
+	},
+	
 	{
 		"type": "Territories",
 		"title": "The Families",
@@ -439,23 +460,7 @@
 			{"lat": 13.177, "lng": 18.867}
 		]
 	},
-	
-		{
-		"type": "Places",
-		"title": "Central Los Santos Medical Center",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": -70.724, "lng": -4.978},
-			{"lat": -71.513, "lng": -2.066},
-			{"lat": -72.157, "lng": -5.626},
-			{"lat": -71.673, "lng": -7.439}
-		]
-	},
-	
+		
 	
 			{
 		"type": "Places",
