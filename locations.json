@@ -440,11 +440,27 @@
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
-            {"lat": 17.381, "lng": -10.277},
-            {"lat": 17.381, "lng": 5.082},
-            {"lat": 9.774, "lng": 5.082},
-            {"lat": 9.774, "lng": -10.277}
+			{"lat": 14.563, "lng": 18.867},
+			{"lat": 14.563, "lng": 20.295},
+			{"lat": 13.177, "lng": 20.295},
+			{"lat": 13.177, "lng": 18.867}
 		]
-	}
+	},
+	
+		{
+		"type": "Places",
+		"title": "Central Los Santos Medical Center",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -70.724, "lng": -4.978},
+			{"lat": -71.513, "lng": -2.066},
+			{"lat": -72.157, "lng": -5.626},
+			{"lat": -71.673, "lng": -7.439}
+		]
+	},
 	
 ]
