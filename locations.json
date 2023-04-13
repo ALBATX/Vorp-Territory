@@ -478,8 +478,292 @@
 			{"lat": -70.251, "lng": -10.529},
 			{"lat": -70.461, "lng": -12.089}
 		]
+	},
+	
+
+{
+		"type": "Places",
+		"title": "The Casino",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -50.986, "lng": 12.406},
+			{"lat": -51.849, "lng": 14.548},
+			{"lat": -53.409, "lng": 12.911},
+			{"lat": -52.447, "lng": 10.442},
+			{"lat": -51.947, "lng": 11.181},
+			{"lat": -51.339, "lng": 12.015}
+		]
+	},
+
+
+{
+		"type": "Places",
+		"title": "Pink Cage Motel",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -55.812, "lng": -7.216},
+			{"lat": -56.351, "lng": -4.326},
+			{"lat": -57.003, "lng": -4.689},
+			{"lat": -57.182, "lng": -4.865},
+			{"lat": -56.582, "lng": -7.732}
+		]
+	},
+
+
+{
+		"type": "Places",
+		"title": "Bahama Mamas West",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -62.468, "lng": -57.117},
+			{"lat": -61.956, "lng": -55.177},
+			{"lat": -61.858, "lng": -54.913},
+			{"lat": -62.216, "lng": -54.359},
+			{"lat": -62.252, "lng": -54.387},
+			{"lat": -62.416, "lng": -54.231},
+			{"lat": -62.715, "lng": -53.781},
+			{"lat": -62.729, "lng": -53.605},
+			{"lat": -63.019, "lng": -53.209},
+			{"lat": -63.367, "lng": -54.253},
+			{"lat": -62.723, "lng": -55.344},
+			{"lat": -63.007, "lng": -56.227}
+		]
+	},
+
+
+{
+		"type": "Places",
+		"title": "The Nest",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 48.436, "lng": 57.963},
+			{"lat": 49.153, "lng": 58.567},
+			{"lat": 49.268, "lng": 58.216},
+			{"lat": 48.553, "lng": 57.655}
+
+		]
+	},
+
+
+{
+		"type": "Places",
+		"title": "The Hen House ",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 75.651, "lng": -24.138},
+		        {"lat": 75.471, "lng": -23.567},
+			{"lat": 75.580, "lng": -23.061},
+                        {"lat": 75.755, "lng": -23.699}
+	
+		]
+	},
+
+
+{
+		"type": "Places",
+		"title": "Arcade",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -68.132, "lng": -63.974},
+		        {"lat": -68.360, "lng": -63.282},
+			{"lat": -68.185, "lng": -62.854},
+                        {"lat": -67.962, "lng": -63.693}
+			
+		]
+	},
+	
+	
+	{
+		"type": "Legal",
+		"title": "Pillbox Hill",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -63.921, "lng": -25.245},
+			{"lat": -63.921, "lng": -22.826},
+			{"lat": -61.903, "lng": -22.826},
+			{"lat": -61.903, "lng": -6.646},
+			{"lat": -65.788, "lng": -6.646},
+			{"lat": -65.788, "lng": -7.324},
+			{"lat": -65.381, "lng": -7.324},
+			{"lat": -65.381, "lng": -10.994},
+			{"lat": -67.321, "lng": -10.994},
+			{"lat": -67.321, "lng": -9.105},
+			{"lat": -68.915, "lng": -9.105},
+			{"lat": -68.915, "lng": -25.245}
+		]
+	},
+
+{
+              "type": "Legal",
+		"title": "Mission Row PD",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+},
+
+{
+		"type": "Legal",
+		"title": "Paleto Bay Sheriff's Office",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+
+
+
+{
+		"type": "Legal",
+		"title": "Senora Desert Sheriff's Office ",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.127, "lng": 37.054},
+			{"lat": 40.912, "lng": 38.801},
+			{"lat": 40.061, "lng": 39.428},
+			{"lat": 39.274, "lng": 37.692}
+		]
+	},
+
+
+
+	{
+		"type": "Legal",
+		"title": "Fleeca Bank",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 16.073, "lng": 18.341},
+			{"lat": 16.073, "lng": 20.179},
+			{"lat": 14.999, "lng": 20.179},
+			{"lat": 14.999, "lng": 18.341}
+		]
+	},
+
+
+{
+		"type": "Legal",
+		"title": "Fleeca Bank",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -45.449, "lng": -101.214},
+			{"lat": -45.491, "lng": -100.449},
+			{"lat": -46.043, "lng": -100.531},
+			{"lat": -45.983, "lng": -101.288}
+		]
+	},
+
+
+	{
+		"type": "Legal",
+		"title": "Fleeca Bank",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -53.246, "lng": -26.209},
+			{"lat": -53.949, "lng": -22.806},
+			{"lat": -54.757, "lng": -23.103},
+			{"lat": -54.015, "lng": -26.608},
+			{"lat": -53.801, "lng": -26.399},
+			{"lat": -53.514, "lng": -26.245}
+		]
+	},
+
+
+{
+		"type": "Legal",
+		"title": "Paleto Bank",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.001, "lng": -19.252},
+			{"lat": 77.257, "lng": -18.059},
+			{"lat": 77.015, "lng": -17.055},
+			{"lat": 76.758, "lng": -18.198}
+		]
+	},
+	
+	
+	{
+ 	"type": "Legal",
+		"title": "The City Vault",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -47.911, "lng": -7.819},
+			{"lat": -48.286, "lng": -6.359},
+			{"lat": -49.684, "lng": -7.149},
+			{"lat": -49.335, "lng": -8.622}
+		
+		]
+	},
+
+{
+		"type": "Legal",
+		"title": "Jewelry Store",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -56.639, "lng": -34.579},
+			{"lat": -56.184, "lng": -33.101},
+			{"lat": -57.782, "lng": -31.405},
+			{"lat": -57.993, "lng": -32.087},
+			{"lat": -56.851, "lng": -33.394}
+		]
 	}
-	
-	
 	
 ]
