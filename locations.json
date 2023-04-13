@@ -69,7 +69,7 @@
 	{
 		"type": "Territories",
 		"title": "The Lost MC Sandy Shores",
-		"notes": "",
+		"notes": "Lost Motorcycle Club (Lost MC), Blaine County'deki Stab City'de faaliyet gösteren bir outlaw motosiklet kulübüdür ve Sandy Shores'u kendi bölgeleri olarak kabul ederler.",
 		"wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -154,21 +154,24 @@
 	
 		{
 		"type": "Territories",
-		"title": "The Lost MC Sandy Shores",
-		"notes": "",
+		"title": "The Lost MC Stab City",
+		"notes": "Stab City'de bulunan Lost MCs kulüp binası.",
 		"wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
-			{"lat": 43.567, "lng": -17.457},
-			{"lat": 43.567, "lng": -7.794},
-			{"lat": 38.702, "lng": -7.794},
-			{"lat": 38.702, "lng": -10.315},
-			{"lat": 36.751, "lng": -10.315},
-			{"lat": 36.751, "lng": -14.371},
-			{"lat": 38.699, "lng": -14.371},
-			{"lat": 38.699, "lng": -17.457}
+			{"lat": 41.526, "lng": -15.276},
+			{"lat": 42.033, "lng": -14.013},
+			{"lat": 42.164, "lng": -12.662},
+			{"lat": 41.755, "lng": -11.519},
+			{"lat": 40.756, "lng": -11.014},
+			{"lat": 39.513, "lng": -11.299},
+			{"lat": 38.601, "lng": -11.827},
+			{"lat": 38.492, "lng": -12.989},
+			{"lat": 38.835, "lng": -14.221},
+			{"lat": 39.466, "lng": -15.265},
+			{"lat": 40.568, "lng": -15.814}
 		]
 	},
 	
