@@ -148,11 +148,11 @@
 	{
 		"type": "Territories",
 		"title": "South Side",
-		"notes": "Yasa dışı Afro-Amerikan sokak çetelerinin (The Families & Ballas) yaşadığı bölge... #EKLENECEK",
+		"notes": "The Families ve Ballas adlı Afro-Amerikan sokak çete üyelerinin yaşadığı bölge.",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000",
-		"fillcolor": "#000",
+		"fillcolor": "000",
 		"latlngarray": [
                         {"lat": -71.435, "lng": -25.542},
                         {"lat": -70.533, "lng": -25.531},
