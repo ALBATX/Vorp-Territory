@@ -271,46 +271,7 @@
 {"lat": -76.666, "lng": 4.595}
 		]
 	},
-	
-	
-			{
-		"type": "Territories",
-		"title": "South Side Ballas",
-		"notes": "Grove Street merkezli, etkisini South Side'da baskın olarak gösterdiği için kendilerine South Side Ballas diyen bir çetedir. Mor rengi ile bilinen çete, takımların renkleriyle ile eşleşen Los Santos Panic Basketbol Takımı ve Boars Beyzbol Kulübü'nün destekçileridir. Şuan üyeleri pek aktif değildir.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "551A8B",
-		"fillcolor": "551A8B",
-		"latlngarray": [
-			{"lat": -76.297, "lng": -12.337},
-		        {"lat": -75.888, "lng": -13.436},
-			{"lat": -75.308, "lng": -16.820},
-			{"lat": -74.982, "lng": -18.797},
-		        {"lat": -74.810, "lng": -19.808},
-	                {"lat": -74.223, "lng": -16.644},
-                        {"lat": -74.019, "lng": -14.622},
-                    {"lat": -73.861, "lng": -13.480},
-{"lat": -73.403, "lng": -10.448},
-{"lat": -73.270, "lng": -9.261},
-{"lat": -73.565, "lng": -8.031},
-{"lat": -73.836, "lng": -6.800},
-{"lat": -74.043, "lng": -5.833},
-{"lat": -74.247, "lng": -4.823},
-{"lat": -74.925, "lng": -7.020},
-{"lat": -75.174, "lng": -7.800},
-{"lat": -75.364, "lng": -8.426},
-{"lat": -75.446, "lng": -8.700},
-{"lat": -75.509, "lng": -8.283},
-{"lat": -75.641, "lng": -8.656},
-{"lat": -75.589, "lng": -9.216},
-{"lat": -75.687, "lng": -9.601},
-{"lat": -76.009, "lng": -10.700},
-{"lat": -76.178, "lng": -10.963},
-{"lat": -76.285, "lng": -11.029}
-		]
-	},
-	
-	
+		
 	{
 	"type": "Places",
         "title": "Ottos Auto",
