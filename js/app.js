@@ -101,12 +101,6 @@ $(function() {
 	});
 
 	var categories = (window.cats = new CategoriesCollection([
-				{
-			name: 'Neighborhoods',
-			icon: 'radar/radar_warehouse.png',
-			type: 'General',
-			enabled: false,
-		},
 
 		{
 			name: 'Territories',
