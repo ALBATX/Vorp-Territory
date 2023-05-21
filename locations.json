@@ -237,40 +237,6 @@
 		]
 	},
 	
-	
-				{
-		"type": "Territories",
-		"title": "Vagos",
-		"notes": "Diğer adıyla da bilinen Vagos, yaygın sokak haydut görünümlerine rağmen, son derece güçlü bir çok uluslu merkeziyetçi suç ağıdır. Başlıca ilgi alanları uyuşturucu kaçakçılığıdır, ancak orta düzey dağıtım, son kullanıcı satışları ve diğer kaçak mallar olarak çeşitlendiler. Şuan üyeleri pek aktif değildir.",
-		"wiki_link": "https://vorp.fandom.com/tr/wiki/East_Side_Vagos",
-		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
-		"latlngarray": [
-{"lat": -79.152, "lng": 3.572},
-{"lat": -79.442, "lng": 5.923},
-{"lat": -79.430, "lng": 6.802},
-{"lat": -79.061, "lng": 7.110},
-{"lat": -78.981, "lng": 8.011},
-{"lat": -79.102, "lng": 15.152},
-{"lat": -76.772, "lng": 16.379},
-{"lat": -76.621, "lng": 20.795},
-{"lat": -75.928, "lng": 18.840},
-{"lat": -75.455, "lng": 17.499},
-{"lat": -75.188, "lng": 17.104},
-{"lat": -74.296, "lng": 15.774},
-{"lat": -73.966, "lng": 15.360},
-{"lat": -72.956, "lng": 15.030},
-{"lat": -71.819, "lng": 15.052},
-{"lat": -71.809, "lng": 10.757},
-{"lat": -71.987, "lng": 10.405},
-{"lat": -73.310, "lng": 5.143},
-{"lat": -74.275, "lng": 4.819},
-{"lat": -74.429, "lng": 5.193},
-{"lat": -76.356, "lng": 4.573},
-{"lat": -76.666, "lng": 4.595}
-		]
-	},
 		
 	{
 	"type": "Places",
