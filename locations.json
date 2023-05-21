@@ -65,6 +65,36 @@
 		]
 	},
 	
+	{
+		"type": "Places",
+		"title": "Angel Of Death Clubhouse",
+		"notes": "Paleto'da bulunan Aod MC kulüp binası.",
+		"order": 0,
+		"strokecolor": "882222",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": 75.254, "lng": -23.672},
+			{"lat": 75.037, "lng": -22.815},
+                        {"lat": 74.983, "lng": -23.046},
+                        {"lat": 75.209, "lng": -23.881}
+                     
+		]
+	},
+	{
+		"type": "Places",
+		"title": "Paleto'da bulunan Aod MC kulüp binası.",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "882222",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": 76.484, "lng": -18.201},
+			{"lat": 76.368, "lng": -17.751},
+                        {"lat": 76.198, "lng": -18.718},
+                        {"lat": 76.308, "lng": -19.036}
+                  
+		]
+	},
 	
 	{
 		"type": "Territories",
@@ -125,7 +155,7 @@
 		{
 		"type": "Territories",
 		"title": "The Lost MC Stab City",
-		"notes": "Stab City'de bulunan Lost MCs kulüp binası.",
+		"notes": "Stab City'de bulunan Lost MC kulüp binası.",
 		"wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -203,9 +233,9 @@
 	},
 	
 	{
-        "type": "Territories",
+        "type": "Places",
         "title": "The Lost MC Mirror Park",
-        "notes": "",
+        "notes": "Mirror Park'da bulunan Lost MC kulüp binası.",
         "wiki_link": "https://vorp.fandom.com/tr/wiki/The_Lost",
 	"order": 0,
         "strokecolor": "FF0000",
