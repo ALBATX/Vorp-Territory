@@ -255,6 +255,22 @@
 		]
 	},
 
+	{
+        "type": "Places",
+        "title": "Taverna",
+        "notes": "",
+        "order": 0,
+        "strokecolor": "E759E1",
+        "fillcolor": "E759E1",
+        "latlngarray": [
+            {"lat": -59.680, "lng": 20.339},
+            {"lat": -60.082, "lng": 20.174},
+                        {"lat": -60.164, "lng": 20.724},
+            {"lat": -60.104, "lng": 21.086},
+                        {"lat": -59.807, "lng": 21.218},
+                        {"lat": -59.735, "lng": 20.899}
+        ]
+    },
 		
 { 
 "type": "Places",
