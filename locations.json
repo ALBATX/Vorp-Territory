@@ -216,9 +216,9 @@
 	},
 	
 	{
-		"type": "Territories",
-		"title": "Asian Racing MC ",
-		"notes": "",
+		"type": "Places",
+		"title": "Raijin Apartment",
+		"notes": "Raijin adlı Japon motor çetesine ait apartman.",
 		"order": 0,
 		"strokecolor": "FFFFFF",
 		"fillcolor": "ff0000",
@@ -227,6 +227,45 @@
 			{"lat": -65.534, "lng": -33.973},
 			{"lat": -66.137, "lng": -34.127},
 			{"lat": -66.155, "lng": -36.193}
+
+
+		]
+	},
+		{
+		"type": "Territories",
+		"title": "Raijin",
+		"notes": "Raijin adlı Japon motor çetesinin sahiplendiği bölge. Raijin çetesi bosozoku kültürünü temsil etmektedir.",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "ff0000",
+		"latlngarray": [
+			{"lat": -71.465, "lng": -1.045},
+			{"lat": -71.402, "lng": -1.386},
+			{"lat": -71.318, "lng": -1.737},
+			{"lat": -70.546, "lng": -4.572},
+			{"lat": -70.024, "lng": -3.308},
+			{"lat": -70.016, "lng": -0.705},
+			{"lat": -70.348, "lng": -0.628},
+			{"lat": -70.469, "lng": -0.481},
+			{"lat": -70.612, "lng": -0.163},
+			{"lat": -70.819, "lng": 0.264}
+		]
+	},
+	
+			{
+		"type": "Places",
+		"title": "Raijin Anıtı",
+		"notes": "Raijin motor çetesini simgeleyen anıt.",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "ff0000",
+		"latlngarray": [
+                         {"lat": -66.137, "lng": -39.889},
+			{"lat": -66.155, "lng": -40.064},
+			{"lat": -66.132, "lng": -40.207},
+			{"lat": -66.021, "lng": -40.372},
+			{"lat": -65.411, "lng": -41.734},
+			{"lat": -65.333, "lng": -41.701}
 
 
 		]
