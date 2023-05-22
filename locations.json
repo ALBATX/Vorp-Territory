@@ -459,18 +459,17 @@
 			{
 		"type": "Places",
 		"title": "Vanilla Unicorn",
-		"notes": "Vanilla Unicorn, The Families üyeleri tarafından yönetilmekte olan bir Striptiz Clubtür.",
+		"notes": "Vanilla Unicorn, The Families üyeleri tarafından yönetilmekte olan bir Striptiz Clubüdür.",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -70.142, "lng": -12.588},
-			{"lat": -70.169, "lng": -12.211},
-			{"lat": -70.162, "lng": -11.739},
-			{"lat": -70.049, "lng": -10.827},
-			{"lat": -70.251, "lng": -10.529},
-			{"lat": -70.461, "lng": -12.089}
+			{"lat": -70.214, "lng": -12.845},
+			{"lat": -70.623, "lng": -12.175},
+			{"lat": -70.336, "lng": -10.362},
+			{"lat": -70.008, "lng": -10.824},
+			{"lat": -70.106, "lng": -11.691}
 		]
 	},
 	
