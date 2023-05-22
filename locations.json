@@ -217,8 +217,8 @@
 	
 	{
 		"type": "Places",
-		"title": "Raijin Apartment",
-		"notes": "Raijin adlı Japon motor çetesine ait apartman.",
+		"title": "Raijin",
+		"notes": "Raijin adlı çeteye ait mekan.",
 		"order": 0,
 		"strokecolor": "FFFFFF",
 		"fillcolor": "ff0000",
@@ -233,7 +233,7 @@
 	},
 		{
 		"type": "Territories",
-		"title": "Raijin",
+		"title": "Raijin Motorcycle Gang",
 		"notes": "Raijin adlı Japon motor çetesinin sahiplendiği bölge. Raijin çetesi bosozoku kültürünü temsil etmektedir.",
 		"order": 0,
 		"strokecolor": "FFFFFF",
