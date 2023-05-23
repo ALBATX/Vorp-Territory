@@ -115,7 +115,7 @@ $(function() {
 			enabled: true,
 		},
 		{
-			name: 'Neutral',
+			name: 'Places',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true,
