@@ -2681,7 +2681,7 @@
 	
 				{
 		"type": "Automotive",
-		"title": "Harmony",
+		"title": "Harmony Garage",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
@@ -2699,8 +2699,8 @@
 		"title": "Oni Customs ",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
 		"latlngarray": [
 			{"lat": -81.662, "lng": -11.634},
 			{"lat": -81.662, "lng": -10.125},
@@ -2733,8 +2733,8 @@
 		"title": "The Casino",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
 		"latlngarray": [
 			{"lat": -50.986, "lng": 12.406},
 			{"lat": -51.849, "lng": 14.548},
@@ -2825,8 +2825,8 @@
 		"title": "Arcade",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
 		"latlngarray": [
 			{"lat": -68.132, "lng": -63.974},
 		        {"lat": -68.360, "lng": -63.282},
