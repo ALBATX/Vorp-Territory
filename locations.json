@@ -545,12 +545,12 @@
 	},
 	{
 		"type": "Territories",
-		"title": "South Side",
-		"notes": "The Families ve Ballas adlı Afro-Amerikan sokak çete üyelerinin yaşadığı bölge.",
+		"title": "MBC",
+		"notes": "#EKLENECEK",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "000",
-		"fillcolor": "000",
+		"strokecolor": "fc1605",
+		"fillcolor": "fc1605",
 		"latlngarray": [
 			{
 				"lat": -72.209,
@@ -581,7 +581,7 @@
 	{
 		"type": "Territories",
 		"title": "South Side",
-		"notes": "The Families ve Ballas adlı Afro-Amerikan sokak çete üyelerinin yaşadığı bölge.",
+		"notes": "#EKLENECEK",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000",
