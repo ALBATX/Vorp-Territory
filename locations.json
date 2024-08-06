@@ -228,8 +228,8 @@
 		"title": "Void",
 		"notes": "Bozok Fırtına'ya ait gece kulübü.",
 		"order": 0,
-		"strokecolor": "882222",
-		"fillcolor": "000000",
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
 		"latlngarray": [
 			{"lat": -47.137, "lng": -5.629},
 			{"lat": -48.107, "lng": -6.058},
@@ -562,45 +562,11 @@
 			}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "MBC",
-		"notes": "#EKLENECEK",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "fc1605",
-		"fillcolor": "fc1605",
-		"latlngarray": [
-			{
-				"lat": -72.209,
-				"lng": -48.196
-			},
-			{
-				"lat": -72.512,
-				"lng": -49.624
-			},
-			{
-				"lat": -73.886,
-				"lng": -46.515
-			},
-			{
-				"lat": -73.510,
-				"lng": -44.889
-			},
-			{
-				"lat": -73.441,
-				"lng": -45.174
-			},
-			{
-				"lat": -73.141,
-				"lng": -46.031
-			}
-		]
-	},
+
 	{
 		"type": "Territories",
 		"title": "South Side",
-		"notes": "#EKLENECEK",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000",
@@ -720,112 +686,8 @@
 			}
 		]
 	},
-	{
-		"type": "Places",
-		"title": "Raijin",
-		"notes": "Raijin adlı çeteye ait mekan.",
-		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "ff0000",
-		"latlngarray": [
-			{
-				"lat": -65.616,
-				"lng": -36.127
-			},
-			{
-				"lat": -65.534,
-				"lng": -33.973
-			},
-			{
-				"lat": -66.137,
-				"lng": -34.127
-			},
-			{
-				"lat": -66.155,
-				"lng": -36.193
-			}
-		]
-	},
-	{
-		"type": "Territories",
-		"title": "Raijin Motorcycle Gang",
-		"notes": "Raijin adlı Japon motor çetesinin sahiplendiği bölge. Raijin çetesi bosozoku kültürünü temsil etmektedir.",
-		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "ff0000",
-		"latlngarray": [
-			{
-				"lat": -71.478,
-				"lng": 0.320
-			},
-			{
-				"lat": -71.488,
-				"lng": -1.009
-			},
-			{
-				"lat": -71.352,
-				"lng": -1.712
-			},
-			{
-				"lat": -70.563,
-				"lng": -4.558
-			},
-			{
-				"lat": -70.041,
-				"lng": -3.261
-			},
-			{
-				"lat": -70.030,
-				"lng": -0.691
-			},
-			{
-				"lat": -70.398,
-				"lng": -0.625
-			},
-			{
-				"lat": -70.673,
-				"lng": -0.064
-			},
-			{
-				"lat": -70.799,
-				"lng": 0.188
-			},
-			{
-				"lat": -70.904,
-				"lng": 0.364
-			}
-		]
-	},
-	{
-		"type": "Places",
-		"title": "Raijin Anıtı",
-		"notes": "Raijin motor çetesini simgeleyen anıt.",
-		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "ff0000",
-		"latlngarray": [
-			{
-				"lat": -65.391,
-				"lng": -39.852
-			},
-			{
-				"lat": -66.153,
-				"lng": -39.885
-			},
-			{
-				"lat": -66.210,
-				"lng": -40.138
-			},
-			{
-				"lat": -65.404,
-				"lng": -41.775
-			},
-			{
-				"lat": -65.331,
-				"lng": -41.720
-			}
-		]
-	},
+
+
 	{
 		"type": "Restaurants",
 		"title": "UWU Cafe",
