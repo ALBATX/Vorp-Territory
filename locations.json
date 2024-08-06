@@ -222,6 +222,24 @@
 			}
 		]
 	},
+
+	{
+		"type": "Places",
+		"title": "Void",
+		"notes": "Bozok Fırtına'ya ait gece kulübü.",
+		"order": 0,
+		"strokecolor": "882222",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -47.137, "lng": -5.629},
+			{"lat": -48.107, "lng": -6.058},
+			{"lat": -48.151, "lng": -4.729},
+			{"lat": -48.451, "lng": -3.685},
+			{"lat": -47.805, "lng": -3.322},
+			{"lat": -47.554, "lng": -4.553}
+		]
+	},
+
 	{
 		"type": "Places",
 		"title": "Angel Of Death Clubhouse",
@@ -248,6 +266,7 @@
 			}
 		]
 	},
+
 	{
 		"type": "Places",
 		"title": "Angel Of Death Clubhouse (2)",
